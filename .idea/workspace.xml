@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6726459-6157-44b1-b731-969f77a5f5b8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>localhost</find>
+      <find>h</find>
+      <find>hos</find>
+      <find>host</find>
+      <find>foundation</find>
+      <find>font</find>
+      <find>nav</find>
+      <find>cate</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\xampp\htdocs\ecommerce\vendor\illuminate</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/includes/delete-modal.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/admin/delete.js" />
+        <option value="$PROJECT_DIR$/app/classes/Session.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_route_contl/ProductCategoryController.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_route_contl/routes.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_js-comp/js/admin/update.js" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_ajax-request/js/admin/update.js" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_ajax-request/categories.blade.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_modal/categories.blade.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_category_testing/_global.scss" />
+        <option value="$PROJECT_DIR$/app/classes/Redirect.php" />
+        <option value="$PROJECT_DIR$/app/classes/tt.php" />
+        <option value="$PROJECT_DIR$/app/functions/helper.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.787/helper.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.469/helper.php" />
+        <option value="$PROJECT_DIR$/app/routing/routes.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/admin/create.js" />
+        <option value="$PROJECT_DIR$/resources/assets/js/admin/update.js" />
+        <option value="$PROJECT_DIR$/resources/views/admin/products/categories.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/includes/message.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/_global.scss" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/sub_category_form/categories.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/SubCategoryController.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/sub_category_model_route_ctrl/SubCategoryController.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/sub_category_model_route_ctrl/admin_routes.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/display_subcategories/categories.blade.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/categories.blade.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/admin_routes.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/SubCategoryController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/admin/events.js" />
+        <option value="$PROJECT_DIR$/app/classes/UploadFile.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/products/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/includes/admin-sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/app/models/Category.php" />
+        <option value="$PROJECT_DIR$/app/models/SubCategory.php" />
+        <option value="$PROJECT_DIR$/app/models/Product.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/products/inventory.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/init.js" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/ProductController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/products/edit.blade.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/create_product_model_save/Product.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/create_product_model_save/ProductController.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/displaying_products/admin_routes.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/displaying_products/ProductController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/ProductCategoryController.php" />
+        <option value="$PROJECT_DIR$/app/routing/admin_routes.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_product/admin_routes.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_product/ProductController.php" />
+        <option value="F:/Teaching/Lectures/Ecommerce/compressed/edit_product/edit.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path>$PROJECT_DIR$/bower.json</config-path>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/resources/assets/bower/vendor/motion-ui/package.json" />
+    <dismissed value="$PROJECT_DIR$/resources/assets/bower/vendor/what-input/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="42" />
+    <option name="y" value="-21" />
+    <option name="width" value="1300" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routing" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="products" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="pro&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/ProductController.php&#10;edit&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/edit.blade.php&#10;pr&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/ProductController.php&#10;ad&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/routing/admin_routes.php&#10;inv&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/inventory.blade.php&#10;adm&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/routing/admin_routes.php&#10;cre&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/create.blade.php&#10;prod&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/ProductController.php&#10;creat&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/create.blade.php&#10;mode&#9;null&#9;null&#10;ca&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/ProductCategoryController.php&#10;sub&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/SubCategoryController.php&#10;category&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/ProductCategoryController.php&#10;glo&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/assets/sass/_global.scss&#10;app.s&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/assets/sass/app.scss&#10;mess&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/includes/message.blade.php&#10;c&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/categories.blade.php&#10;up&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/assets/js/admin/update.js&#10;upda&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/assets/js/admin/update.js&#10;cate&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/categories.blade.php&#10;admi&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/routing/admin_routes.php&#10;su&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/app/controllers/admin/SubCategoryController.php&#10;CATE&#9;FILE&#9;file://D:/xampp/htdocs/ecommerce/resources/views/admin/products/categories.blade.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\ecommerce" />
+      <recent name="D:\xampp\htdocs\ecommerce\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\ecommerce\resources\views\admin\products" />
+      <recent name="D:\xampp\htdocs\ecommerce\app\models" />
+      <recent name="D:\xampp\htdocs\ecommerce\app\controllers\admin" />
+      <recent name="D:\xampp\htdocs\ecommerce\resources\assets\js\admin" />
+      <recent name="D:\xampp\htdocs\ecommerce\app\routing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6726459-6157-44b1-b731-969f77a5f5b8" name="Default" comment="" />
+      <created>1496562490106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496562490106</updated>
+      <workItem from="1496562491454" duration="6565000" />
+      <workItem from="1496591963182" duration="760000" />
+      <workItem from="1496844943165" duration="380000" />
+      <workItem from="1497081877127" duration="19704000" />
+      <workItem from="1497674468865" duration="169000" />
+      <workItem from="1497679670185" duration="6220000" />
+      <workItem from="1497764409419" duration="11368000" />
+      <workItem from="1497882215264" duration="3204000" />
+      <workItem from="1498380921609" duration="252000" />
+      <workItem from="1498383922949" duration="14000" />
+      <workItem from="1498398084105" duration="75000" />
+      <workItem from="1498491955828" duration="53000" />
+      <workItem from="1498494713328" duration="3000" />
+      <workItem from="1498499630302" duration="2000" />
+      <workItem from="1498897772342" duration="599000" />
+      <workItem from="1498994871748" duration="599000" />
+      <workItem from="1499520906973" duration="15000" />
+      <workItem from="1500801728023" duration="77000" />
+      <workItem from="1501995662043" duration="1450000" />
+      <workItem from="1502890438890" duration="19790000" />
+      <workItem from="1503727515537" duration="4251000" />
+      <workItem from="1503822838665" duration="28000" />
+      <workItem from="1503822911392" duration="10371000" />
+      <workItem from="1504328681339" duration="10052000" />
+      <workItem from="1504537968093" duration="51000" />
+      <workItem from="1504538078402" duration="9000" />
+      <workItem from="1504538110536" duration="3000" />
+      <workItem from="1504794229024" duration="112000" />
+      <workItem from="1505578664316" duration="66000" />
+      <workItem from="1505578758273" duration="12628000" />
+      <workItem from="1506014152372" duration="25000" />
+      <workItem from="1506164931990" duration="1864000" />
+      <workItem from="1506794180632" duration="7559000" />
+      <workItem from="1507220560435" duration="915000" />
+      <workItem from="1507249544128" duration="200000" />
+      <workItem from="1507958777426" duration="20000" />
+      <workItem from="1507958808011" duration="655000" />
+      <workItem from="1508038492223" duration="27205000" />
+      <workItem from="1508170498444" duration="1547000" />
+      <workItem from="1508386971348" duration="14048000" />
+      <workItem from="1508494783216" duration="729000" />
+      <workItem from="1508496190201" duration="4271000" />
+      <workItem from="1508830812791" duration="32000" />
+      <workItem from="1509026244544" duration="1269000" />
+      <workItem from="1509032892498" duration="760000" />
+      <workItem from="1509034990671" duration="672000" />
+      <workItem from="1509036532085" duration="26000" />
+      <workItem from="1509178053090" duration="30827000" />
+      <workItem from="1509215277366" duration="959000" />
+      <workItem from="1509370670965" duration="698000" />
+      <workItem from="1509372012570" duration="1303000" />
+      <workItem from="1509736040433" duration="303000" />
+      <workItem from="1509785932026" duration="4558000" />
+      <workItem from="1509887743182" duration="22000" />
+      <workItem from="1510065152078" duration="20865000" />
+      <workItem from="1510502482012" duration="713000" />
+      <workItem from="1510637819738" duration="1481000" />
+      <workItem from="1510929456302" duration="3707000" />
+      <workItem from="1511009454600" duration="3874000" />
+      <workItem from="1515765806948" duration="579000" />
+      <workItem from="1515766463040" duration="2164000" />
+    </task>
+    <task id="LOCAL-00001" summary="update till delete product">
+      <created>1515768184973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515768184973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="242720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LIMIT_HISTORY" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="update till delete product" />
+    <option name="LAST_COMMIT_MESSAGE" value="update till delete product" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/routing/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/includes/message.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/sub_category_form/categories.blade.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/sub_category_model_route_ctrl/SubCategory.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/sub_category_model_route_ctrl/SubCategoryController.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/sub_category_model_route_ctrl/admin_routes.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/sub_category_model_route_ctrl/routes.php" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/admin/create.js" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/admin/update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/display_subcategories/categories.blade.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.801/categories.blade.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/categories.blade.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/routes.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/admin_routes.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_sub_category/SubCategoryController.php" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/SubCategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1985">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/classes/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/admin/events.js" />
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/classes/UploadFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="95" column="30" lean-forward="true" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/classes/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/uploads/products/1_front-46106c8acf89be2e63c98f39ed8801e8.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/views/includes/admin-sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/SubCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/products/inventory.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/products/categories.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="68" column="45" lean-forward="true" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/admin/delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/products/create.blade.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.972/create.blade.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/create_product_model_save/Product.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/create_product_model_save/ProductController.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/displaying_products/admin_routes.php" />
+    <entry file="file://$PROJECT_DIR$/app/models/Product.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/displaying_products/ProductController.php" />
+    <entry file="file://$PROJECT_DIR$/app/classes/ValidateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/database/Capsule/Manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1306">
+          <caret line="126" column="7" lean-forward="true" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/functions/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="44" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/ProductController.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_product/admin_routes.php" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/ProductCategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="107" column="4" lean-forward="false" selection-start-line="107" selection-start-column="4" selection-end-line="128" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_product/ProductController.php" />
+    <entry file="file://F:/Teaching/Lectures/Ecommerce/compressed/edit_product/edit.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/products/edit.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/routing/admin_routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/_env.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
